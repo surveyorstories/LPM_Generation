@@ -1,7 +1,7 @@
 """
 Model exported as python.
 Name : LPM Processing model
-Group : abc
+Group :""
 With QGIS : 32802
 """
 
